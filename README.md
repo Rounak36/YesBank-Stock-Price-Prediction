@@ -37,7 +37,7 @@ Conducted multiple hypothesis tests to check data relationships:
 ##  Models Used & Performance
 | Model                 | MSE       | R² Score | After Tuning R² |
 |----------------------|-----------|----------|------------------|
-| Linear Regression     | 137.23    | 0.9835   | ✅ **0.9835** (Best) |
+| Linear Regression     | 137.23    | 0.9835   |  **0.9835** (Best) |
 | Random Forest Regressor | 171.88 | 0.9793   | 0.9809 |
 | XGBoost Regressor     | 175.77    | 0.9789   | 0.9777 |
 
